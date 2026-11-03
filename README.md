@@ -6,4 +6,4 @@ lua-editor,
 • optimal
 • lua-syntax-highlighting
 
-[download now]
+[download now](https://github.com/nelqz/lua-editor-android/releases/tag/Releases)

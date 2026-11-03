@@ -1,8 +1,9 @@
-hi everyone, this is my first ever android app.
-its a code editor (2MB)lightweight and fast.
-and no it's not a MALWARE OR A VIRUS the source code is at this repository.
-[ClickME to Download](https://github.com/nelqz/Code-Editor-CODE/releases)
+hi everyone, this is nelqz. today I'm gonna introduce you to my app.
 
-if you're still in doubt scan it.
-https://www.virustotal.com/gui/home/upload
-or you can download the Source Code in [Releases](https://github.com/nelqz/Code-Editor-CODE/releases)
+lua-editor,
+• fast
+• lightweight
+• optimal
+• lua-syntax-highlighting
+
+[download now]

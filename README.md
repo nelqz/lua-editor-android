@@ -1,9 +1,5 @@
-hi everyone, this is nelqz. today I'm gonna introduce you to my app.
+Welcome to Lua Editor. 
 
-lua-editor,
-• fast
-• lightweight
-• optimal
-• lua-syntax-highlighting
+I created this app to be incredibly light and fast, keeping it completely out of your way. There is no clutter to distract you. You just get clean Lua syntax highlighting and a quiet, simple space to write your code.
 
-[download now](https://github.com/nelqz/lua-editor-android/releases/tag/Releases)
+[Download](https://github.com/nelqz/lua-editor-android/releases/tag/Releases)
